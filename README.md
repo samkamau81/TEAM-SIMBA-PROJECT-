@@ -1,5 +1,4 @@
 # TEAM-SIMBA-PROJECT-
-This is a Data Science Winning Project carried out by Team Simba (Me, Ariel Achila, Chelangat Bore and Olive Chero) for the Big Data Kenya 2021 Hackathon sponsored by The University of Manchester ,Inter University Institute for Data Intensive Astronomy, DARA Big Data and the Office of Astronomy for Development. We analysed tweets and through Sentimental analysis using Machine Learning Models like BERT ,we were able to conclude that  Mental Health has been affected by COVID19.
 -----
 ![image](https://github.com/samkamau81/TEAM-SIMBA-PROJECT-/assets/63351043/bc4d44a5-a49f-4b6b-a450-fd85b5c18b8e)
 ![image](https://github.com/samkamau81/TEAM-SIMBA-PROJECT-/assets/63351043/512c8319-fdee-4c21-9f45-2f6b788a12b2)
